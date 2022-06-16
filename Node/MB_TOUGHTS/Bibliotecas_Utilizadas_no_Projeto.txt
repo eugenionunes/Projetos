@@ -1,0 +1,1 @@
+npm i bcryptjs connect-flash cookie-parser cookie-session express express-flash express-session tedious sequelize nodemon session-file-store
